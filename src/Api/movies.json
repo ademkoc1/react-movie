@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "name": "John Wick 4 (2023) ",
+      "rating": "8.9",
+      "overview": "ohn Wick, yüksek şurayı yenmek için kendine bir yol belirler. Ancak, özgürlüğünü kazanmadan önce, dünyadaki güçlü ittifaklarla ve eski arkadaşlarını birer düşmana dönüştüren güçlerle mücadele etmelidir. John Wick'in dünyası büyümeye devam ediyor ve riskler her zamankinden çok daha fazla...",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjKtq0NvBowkpFss07AiAE09AfU.jpg",
+      "id": 9
+    },
+    {
+      "name": "Yedi Kral Ölmeli mi ",
+      "rating": "8.6",
+      "overview": "Kral Edward'ın ölümünün ardından Bebbanburglu Uhtred ve yoldaşları, parçalanmış bir krallığın dört bir yanında, İngiltere'yi birleştirme umuduyla maceralara atılır.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg",
+      "id": 10
+    },
+    {
+      "name": "Avatar: Suyun Yolu (2022)",
+      "rating": "7.7",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bidENTLt6baEa2ieNT95brFtsvb.jpg",
+      "overview": "Avatar'da yaşanan olaylardan birkaç yıl sonra Jake ve Neytiri Pandora'da kendi ailelerini kurmuştur. Ancak onlar evlerini terk etmek zorunda kalır. Bu yüzden Jake ve Neytiri, suyun yüzeri ve altı dahil olmak üzere Pandora'nın dışındaki yerleri keşfetmeye başlar.",
+      "id": 11
+    },
+    {
+      "name": "Matilda Müzikali (2022)",
+      "rating": "6.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvwHuWsZYsqCyUwvkTrOhm5OZsi.jpg",
+      "overview": "Wormwood ailesinin kızı olan Matilda, oldukça zeki bir kızdır. Ailesi onun tam bir baş belası olduğunu düşünse de Matilda’ya göre durum tam tersidir. İnsanları dolandırarak para kazanan Bay ve Bayan Wormwood günlerini televizyon başında pinekleyerek geçirir. Her şeyi kendi başına öğrenebilecek kapasiteye sahip olan Matilda, evde kötü ebeveynleri okulda ise korkunç okul müdürü ile uğraşmak zorunda kalır. Matilda, sınıf arkadaşlarının desteği ve sınırsız hayal gücü ile kaderini değiştirmeye çalışır.",
+      "id": 12
+    },
+    {
+      "name": "The Walking Dead (2010)",
+      "rating": "8.1",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
+      "overview": "Zombi kıyametinin ardından hayatta kalanlar, birlikte verdikleri ölüm kalım mücadelesinde insanlığa karşı duydukları umuda tutunur.",
+      "id": 13
+    },
+    {
+      "name": "M3GAN (2022)",
+      "rating": "7.4",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "overview": "Gemma, yakın zamanda yetim kalmış olan yeğeni Cady'e destek olması ve arkadaşlık etmesi için bir robot tasarlar. Ancak küçük kız ile duygusal olarak bağ kurmaya programlanmış insansı robot, programlaması fazla iyi işlediği için yeni arkadaşı konusunda aşırı korumacı bir hale gelir. Bu korkutucu bağlanma durumu pek çok tehlikeyi de beraberinde getirir.",
+      "id": 14
+    },
+    {
+      "name": "Hayalimdeki Düğün ",
+      "rating": "6.3",
+      "overview": "Genç bir çift olan Darcy ve Tom evlenmeye karar verir. Bu onların dışarıdan oldukça sevecen gözüken ancak oldukça inatçı olan ailelerinin de bir araya gelmesi demektir. Bu durum kutlama için tehlike oluşturacak olsa da onları bekleyen tek sorun bu değildir. Düğünde konuklardan biri rehin alınınca işler iyice karışır. Sevdiklerini korumak için ellerinden geleni yapan çiftin ilişkisi de bu süreçte sınanır.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/li38soxSu1o9Tnn7s01M0yO98Qz.jpg",
+      "id": 15
+    },
+    {
+      "name": "The Mandalorian (2019)",
+      "rating": "8.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+      "overview": "mparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+      "id": 16
+    },
+    {
+      "name": "Kara Şövalye (2008)",
+      "rating": "9.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggax1nyhiGIwbq1Ynk0otH2sD6.jpg",
+      "overview": "Öngörülü film yapımcısı Christopher Nolan'ın \"Batman Başlıyor\" filminin devamında Batman (Christian Bale) suçla savaşını bir sonraki seviyeye taşıyor. Yüzbaşı Jim Gordon'un (Gary Oldman) ve Bölge Savcısı Harvey Dent'in (Aaron Eckhart) yardımıyla Batman şehrin sokaklarını sarmalayan suç şebekelerinin kökünü kurutmak için kolları sıvar. Bu ortaklık ilk başta etkilidir ancak daha sonra üçlü kendilerinin Gotham sakinlerinin Joker (Heath Ledger) olarak tanıdığı yeni suç şebekesinin beynine yem olduklarını anlar.",
+      "id": 17
+    }
+  ]
+}
